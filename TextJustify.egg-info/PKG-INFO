@@ -1,0 +1,26 @@
+Metadata-Version: 1.1
+Name: TextJustify
+Version: 0.0.3
+Summary: A text justify package
+Home-page: UNKNOWN
+Author: MH Habib
+Author-email: mhrahman7096@gmail.com
+License: MIT
+Description: This is the initial release of Text Justify package.
+        Soon the details document will be available here.
+        
+        
+        CHANGE LOG
+        -----------
+        
+        0.0.3 (February 9, 2021)
+        ------------------------
+        - Fixed some bugs
+        
+Keywords: justify
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3

@@ -1,0 +1,10 @@
+Changelog.txt
+License.txt
+MANIFEST.in
+README.md
+setup.py
+TextJustify/__init__.py
+TextJustify.egg-info/PKG-INFO
+TextJustify.egg-info/SOURCES.txt
+TextJustify.egg-info/dependency_links.txt
+TextJustify.egg-info/top_level.txt

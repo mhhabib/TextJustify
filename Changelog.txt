@@ -1,0 +1,6 @@
+CHANGE LOG
+-----------
+
+0.0.3 (February 9, 2021)
+------------------------
+- Fixed some bugs
