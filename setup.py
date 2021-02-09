@@ -11,9 +11,10 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setup(
     name='TextJustify',
-    version='0.0.4',
+    version='0.0.5',
     description='A text justify package',
-    long_description=long_description,
+    long_description=long_description + '\n\n' +
+    open('Changelog.txt').read(),
     long_description_content_type="text/markdown",
     url='https://github.com/mhhabib/TextJustify',
     author='MH Habib',

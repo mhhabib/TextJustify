@@ -1,12 +1,13 @@
 Metadata-Version: 2.1
 Name: TextJustify
-Version: 0.0.4
+Version: 0.0.5
 Summary: A text justify package
 Home-page: https://github.com/mhhabib/TextJustify
 Author: MH Habib
 Author-email: mhrahman7096@gmail.com
 License: MIT
 Description: # A text alignment justification package.
+        
         
         The text alignment justifies package will provide you four types of alignment.
         
@@ -19,11 +20,13 @@ Description: # A text alignment justification package.
         
         ### Setup `TextJustify`
         
+        
         ```bash
         pip install TextJustify
         ```
         
         # Usage
+        
         
         ```python
         import TextJustify
@@ -43,6 +46,13 @@ Description: # A text alignment justification package.
         
         ```
         
+        
+        CHANGE LOG
+        -----------
+        
+        0.0.5 (February 9, 2021)
+        ------------------------
+        - Added documentations
 Keywords: justify
 Platform: UNKNOWN
 Classifier: Development Status :: 5 - Production/Stable

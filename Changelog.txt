@@ -1,6 +1,6 @@
 CHANGE LOG
 -----------
 
-0.0.4 (February 9, 2021)
+0.0.5 (February 9, 2021)
 ------------------------
 - Added documentations
