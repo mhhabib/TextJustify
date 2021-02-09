@@ -1,5 +1,6 @@
 # A text alignment justification package.
 
+
 The text alignment justifies package will provide you four types of alignment.
 
 - Left (Default)
@@ -11,11 +12,13 @@ When you use the above three justification then maybe have a blank space and tha
 
 ### Setup `TextJustify`
 
+
 ```bash
 pip install TextJustify
 ```
 
 # Usage
+
 
 ```python
 import TextJustify
