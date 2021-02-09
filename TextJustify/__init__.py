@@ -2,7 +2,7 @@ import re
 import textwrap
 
 
-def justify_text(_text, w, align, fill=" "):
+def justify_text(_text, w, align="left", fill=" "):
     wrapper = textwrap.TextWrapper(width=w)
     dedented_text = textwrap.dedent(text=_text)
     txt = wrapper.fill(text=dedented_text)
