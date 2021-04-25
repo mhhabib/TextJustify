@@ -1,4 +1,5 @@
 # A text alignment justification package.
+[![Downloads](https://pepy.tech/badge/textjustify)](https://pepy.tech/project/textjustify) [![Downloads](https://pepy.tech/badge/textjustify/month)](https://pepy.tech/project/textjustify) [![Downloads](https://pepy.tech/badge/textjustify/week)](https://pepy.tech/project/textjustify)
 
 
 The text alignment justifies package will provide you four types of alignment.
